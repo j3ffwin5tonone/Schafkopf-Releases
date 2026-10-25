@@ -1,0 +1,45 @@
+Schafkopf – Lizenzbedingungen
+
+Copyright © 2026 Andreas Distel. Alle Rechte vorbehalten.
+
+1. Gegenstand
+   Diese Bedingungen gelten für das Programm „Schafkopf“ einschließlich
+   seiner Grafiken und Texte (im Folgenden „die Software“). Bibliotheken
+   Dritter, die in der Software enthalten sind, stehen unter eigenen
+   Lizenzen; siehe „Lizenzen Dritter“ in der Software und die Datei
+   LIZENZEN-DRITTER.txt. Deren Bedingungen gehen für diese Bibliotheken
+   vor.
+
+2. Nutzung
+   Du darfst die Software kostenlos für private, nicht gewerbliche
+   Zwecke auf beliebig vielen eigenen Geräten installieren und nutzen.
+
+3. Weitergabe
+   Du darfst die Software unverändert, vollständig und kostenlos an
+   andere Personen weitergeben, zusammen mit diesen Bedingungen. Nicht
+   erlaubt sind ohne vorherige schriftliche Zustimmung des
+   Rechteinhabers: der Verkauf, die Vermietung oder jede andere
+   Weitergabe gegen Entgelt, die Weitergabe als Teil eines
+   kostenpflichtigen Angebots und die Veröffentlichung auf
+   Download-Portalen oder App-Marktplätzen.
+
+4. Keine Bearbeitung
+   Die Software darf nicht verändert, übersetzt, dekompiliert oder
+   disassembliert werden, soweit das Gesetz dies nicht zwingend erlaubt
+   (insbesondere §§ 69d und 69e UrhG).
+
+5. Gewährleistung und Haftung
+   Die Software wird unentgeltlich überlassen. Der Rechteinhaber haftet
+   nur für Vorsatz und grobe Fahrlässigkeit (§ 521 BGB) und für Mängel
+   nur, wenn er sie arglistig verschwiegen hat (§ 524 BGB). Die Haftung
+   nach dem Produkthaftungsgesetz und für Schäden an Leben, Körper oder
+   Gesundheit bleibt unberührt.
+
+6. Trinkgeld
+   Ein freiwilliges Trinkgeld („ein Bier spendieren“) ist kein
+   Kaufpreis. Es begründet keinen Anspruch auf Support, Updates oder
+   sonstige Leistungen.
+
+7. Schlussbestimmungen
+   Es gilt deutsches Recht. Sollte eine Bestimmung unwirksam sein,
+   bleiben die übrigen wirksam.
