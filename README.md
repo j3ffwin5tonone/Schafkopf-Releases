@@ -1,11 +1,36 @@
 # Schafkopf Classic
 
-Bayerischer Schafkopf für Windows und macOS: Spiele gegen drei Computerspieler, mit drei
-KI-Stufen, Lernmodus, lokalem Spielstand und Statistik.
+Eine Runde Schafkopf – wann immer du Lust hast. Spiele bayerischen Schafkopf
+gegen Sepp, Resi und Wastl: mit drei KI-Stufen, Lernmodus und zwei Tischgestaltungen.
+Kostenlos für private Nutzung, auf Windows und macOS. Das Spiel läuft offline.
 
-## Download
+**[Jetzt herunterladen](https://github.com/j3ffwin5tonone/Schafkopf-Releases/releases/latest)**
 
-**[Aktuelle Version herunterladen](https://github.com/j3ffwin5tonone/Schafkopf-Releases/releases/latest)**
+![Schafkopf Classic am dunklen Stammtisch – Karten, Mitspieler und aktueller Stich](bilder/stammtisch.jpg)
+
+### Dein Tisch, dein Spiel
+
+Am **Stammtisch** spielst du in dunkler Holzoptik und mit bayerischen Texten.
+Der helle **Biergarten** bringt eine zweite Gestaltung und hochdeutsche Texte mit.
+Zwei Kartensätze stehen zur Auswahl.
+
+![Die helle Biergarten-Gestaltung von Schafkopf Classic](bilder/biergarten.jpg)
+
+### Mitspielen und dazulernen
+
+Der **Lernmodus** erklärt die Spielsituation und die Entscheidungen der Computer.
+Auf Wunsch bekommst du einen Zugvorschlag – hilfreich beim Einstieg und zum Üben.
+Lernpartien fließen nicht in deine Konten und Statistik ein.
+
+![Der Lernmodus mit Erklärungen zur Spielsituation und einem Zugvorschlag](bilder/lernmodus.jpg)
+
+Dein Spielstand wird automatisch gespeichert. Beim nächsten Start kannst du die
+Runde fortsetzen. Wähle zwischen **Leicht**, **Mittel** und **Stark**, je nachdem,
+wie viel Herausforderung du suchst.
+
+## Herunterladen und losspielen
+
+**[Zur aktuellen Version für Windows und macOS](https://github.com/j3ffwin5tonone/Schafkopf-Releases/releases/latest)**
 
 ### Windows x64
 
@@ -40,6 +65,6 @@ Kostenlos für private, nicht gewerbliche Nutzung. Es gelten die
 [Lizenzbedingungen](LIZENZ.txt). Hinweise zu enthaltenen Bibliotheken stehen in
 [LIZENZEN-DRITTER.txt](LIZENZEN-DRITTER.txt) und in der App.
 
-Dieses Repository enthält ausschließlich Downloads, Nutzungshinweise und
+Dieses Repository enthält Downloads, Screenshots, Nutzungshinweise und
 Lizenztexte. Die automatisch von GitHub angebotenen „Source code“-Archive
-enthalten diese Dokumente, nicht den Quellcode des Spiels.
+enthalten diese öffentlich sichtbaren Dateien, nicht den Quellcode des Spiels.
