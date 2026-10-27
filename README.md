@@ -39,16 +39,25 @@ einen davon. WebView2 wird bei Bedarf während der Installation heruntergeladen.
 Die Installer sind derzeit nicht mit einem Windows-Code-Signing-Zertifikat
 signiert. Windows SmartScreen kann deshalb eine Warnung anzeigen.
 
-### macOS – Apple Silicon und Intel
+### macOS — Apple Silicon und Intel
 
-Lade die **Universal-DMG** herunter, öffne sie und ziehe **Schafkopf Classic**
-in den Ordner **Programme**. Die App enthält beide Prozessorarchitekturen.
+Lade das **Universal-ZIP** herunter, entpacke es und ziehe **Schafkopf Classic.app**
+in den Ordner **Programme**. Die App enthält beide Prozessorarchitekturen und
+ist mit Developer ID signiert und von Apple notarisiert.
 
-Die App ist Ad-hoc-signiert und noch nicht von Apple notarisiert. Falls macOS
-das Öffnen blockiert, öffne nach dem Startversuch **Systemeinstellungen →
-Datenschutz & Sicherheit** und erlaube dort das Öffnen der App.
+### Programm-Updates
 
-Das Spiel selbst funktioniert offline. Linux-Pakete sind in Vorbereitung.
+Direktdownload-Versionen können beim Start und manuell unter **Programm-Updates**
+nach Aktualisierungen suchen. Die automatische Prüfung ist abschaltbar. Download
+und Installation starten nach deiner Zustimmung; dein Spielstand wird vorher
+gespeichert. Details zu den Verbindungsdaten stehen in der
+[Datenschutzerklärung](https://schafkopf-classic.de/schafkopf/datenschutz/).
+
+Bestehende Installationen von **0.1.0** benötigen einmalig eine manuelle
+Installation der aktuellen Version, da sie noch keinen Updater enthalten.
+
+Das Kartenspiel funktioniert weiterhin offline. Linux-Updates über diesen Kanal
+werden derzeit nicht angeboten.
 
 ## Prüfungen
 
@@ -57,7 +66,7 @@ Abhängigkeiten ausgeführt. Die Windows-Installer wurden zusätzlich mit
 Microsoft Defender geprüft. Zum Download gehören
 `SHA256SUMS*.txt` mit den Prüfsummen. `defender-scan.txt` dokumentiert den
 Windows-Virenscan; `build-macos-universal.json` die macOS-Buildprüfungen.
-Ein manueller Windows-Installationstest steht für Version 0.1.0 noch aus.
+Der echte Windows-Update-Test von 0.2.0 auf 0.2.1 wurde bestätigt: Der Spielstand blieb erhalten und es gab kein erneutes Update-Angebot. Auch der entsprechende Mac-Update-Test war erfolgreich.
 
 ## Lizenz
 
