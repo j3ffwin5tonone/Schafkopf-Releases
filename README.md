@@ -6,6 +6,11 @@ Kostenlos für private Nutzung, auf Windows und macOS. Das Spiel läuft offline.
 
 **[Jetzt herunterladen](https://github.com/j3ffwin5tonone/Schafkopf-Releases/releases/latest)**
 
+[Offizielle Website](https://schafkopf-classic.de/) ·
+[Installation unter Windows](https://schafkopf-classic.de/schafkopf-windows/) ·
+[Installation auf dem Mac](https://schafkopf-classic.de/schafkopf-mac/) ·
+[Schafkopf lernen](https://schafkopf-classic.de/schafkopf-lernen/)
+
 ![Schafkopf Classic am dunklen Stammtisch – Karten, Mitspieler und aktueller Stich](bilder/stammtisch.jpg)
 
 ### Dein Tisch, dein Spiel
